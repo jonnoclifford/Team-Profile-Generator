@@ -1,0 +1,37 @@
+.team-heading {
+  background-color: #4883c2;
+  color: #fff;
+}
+
+.card {
+  background-color: #fff;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+}
+
+.employee-card {
+  padding: 0px;
+  border-radius: 15px;
+  margin-left: 10px;
+}
+
+.card-header {
+  background-color: #3d6794;
+  color: #fff;
+  padding: 15px;
+}
+
+.card-body {
+  padding: 10px;
+}
+
+.card-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.list-group-item {
+  padding: 10px 20px;
+  font-size: 16px;
+}
